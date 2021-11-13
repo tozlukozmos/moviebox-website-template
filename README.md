@@ -1,7 +1,7 @@
 # Basic HTML5 movie template with Vue3
 
-# Design: [Adriana Eka Prayudha](https://www.figma.com/@radenadri)
-# Demo: [MovieBox](https://moviebox-template.netlify.app/)
+# Design: [Adriana Eka Prayudha](https://www.figma.com/@radenadri){:target="_blank"}
+# Demo: [MovieBox](https://moviebox-template.netlify.app/){:target="_blank"}
 
 ![Design photo](https://s3-alpha.figma.com/hub/file/1209897407/5c7f87a7-470d-4776-8f48-52063a8689c7-cover.png)
 
